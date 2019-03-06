@@ -1,0 +1,2 @@
+# secinterpolation
+This is the python program which aims to simplify the correct interpolation of spatially inhomogeneous oceanographic section data on the regular grid of numerical model (the presented case is NEMO grid). The proposed tool uses the Gaussian core interpolation method where core size and thus to-be-interpolated points weights are defined according to their number and distance from the target regular grid point. 
